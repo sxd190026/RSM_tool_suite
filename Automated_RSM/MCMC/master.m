@@ -1,0 +1,9 @@
+addpath('/Users/user/Library/CloudStorage/OneDrive-TheUniversityofTexasatDallas/Documents/MURI_Project_1/temp/rsm_tool_suite-master-2/Automated_RSM/MCMC/gpmsa/matlab');
+%runmcmcO2
+%runmcmcO
+%runmcmcN2
+%runmcmcN
+%runmcmcHe
+%runmcmcH
+makeRSM
+exit

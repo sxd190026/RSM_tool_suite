@@ -1,0 +1,14 @@
+Mesh Filename							# ../Mesh_Files/GRACE_final_ascii.stl
+Number of Ensemble Points					# 2000
+Gas Surface Interaction Model                              	# 2
+Species Mole Fractions : X = [O, O2, N, N2, He, H]	   	#  1.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+**************************************************************** MIN		MAX *****************
+Magnitude of Bulk Velocity : 			Umag [m/s]	# 7200.0	8000.0
+Yaw Angle Orientation: 	     	  		Theta [degrees]	# -10.0		10.0
+Pitch Angle Orientation:     			Phi [degrees]	# -3.0		3.0
+Satellite Surface Temperature : 		Ts [K]		# 250.0		350.0
+Atmospheric Translational Temperature : 	Ta [K]		# 500.0		1700.0
+Specular Fraction : 	  	      		epsilon		# 0.0		1.0
+Energy Accommodation Coefficient : 		alpha		# 0.0		1.0
+Normal Energy Accommodation Coefficient : 	alphan	   	# 0.0		1.0
+Tangential Momentum Accommodation Coefficient :	sigmat	   	# 0.0		1.0

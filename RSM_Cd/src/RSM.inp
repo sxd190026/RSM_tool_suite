@@ -1,0 +1,16 @@
+RSM Input File ***THE READING OF THIS FILE IS LINE NUMBER DEPENDENT; DO NOT INSERT EMPTY LINES***
+
+******************* Drag Coefficient Controls ******************
+							# [H]   [He]	[N]	[N2]	[O]	[O2]
+Species Mole Fractions [H, He, N, N2, O, O2]		# 0.01	0.15	0.02	0.01	0.81	0.0
+Total Number Density (m^-3)  	      	 		# 1.78e+13
+Velocity of Satellite Relative to Atmosphere (km/s)	# 7.613
+Atmospheric Translational Temperature (K)		# 979.9
+Surface Temperature (K)					# 300.0
+Adsorption model (0=Langmuir; 1=Freundlich)	 	# 0
+Pitch angle (degrees)                                   # -0.86
+Yaw angle (degrees)                                     # -3.09
+Surface material particle mass (kg)                     # 2.004e-25
+Satellite Mass (kg)	       				# 432.0
+Satellite RSM filename (located in "RSM_files")		# GRACE1_RSM.dat
+Satellite Area filename (located in "RSM_files")	# GRACE_area.dat
